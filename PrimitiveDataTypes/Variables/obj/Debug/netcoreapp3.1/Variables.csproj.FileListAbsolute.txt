@@ -1,0 +1,13 @@
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+F:\Documents\GitHub\DFlat\PrimitiveDataTypes\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
